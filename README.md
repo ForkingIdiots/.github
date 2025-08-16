@@ -1,13 +1,9 @@
-# Welcome to ForkingIdiots 🍴🤪
+A playground for experiments that sometimes become real software.
 
-You've found it. The digital cesspool of code deviants.
+We ship, we learn, we delete half of it later.
 
-🌑 We embrace bugs. They're not mistakes, they're "features."
-🔮 Our cult worships caffeine and questionable practices.
-💀 Weekends? Sacrificed to Debug Hell.
+Bugs: lessons in disguise
+Coffee: encouraged, not required
+PRs: small and readable, ideally both
 
-Our motto: "It works on my machine."
-
-Think you can handle it? Dive in. No safe word.
-
-May your code be as dirty as your mind.
+“It works on my machine” is a starting point, not a finish line.
